@@ -123,7 +123,7 @@
 
     <div class="center">
   <?php if (isset($result)): ?>
-    <p>The server receives the Boarding Houses in Ampayon, Butuan City: <?php echo $result; ?></p>
+    <p>The server receives the Boarding House in Ampayon, Butuan City: <?php echo $result; ?></p>
   <?php endif; ?>
 </div>
 
